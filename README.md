@@ -2,6 +2,9 @@
 
 ![Design preview for the QR code component coding challenge](./design/desktop-preview.jpg)
 
+This site is live at GitHub Pages: [https://jhonatan-silva-oliveira.github.io](https://jhonatan-silva-oliveira.github.io/qr-code-component-main/)
+Last deployed by @Jhonatan-Silva-Oliveira
+
 ## Welcome! 👋
 
 Thanks for checking out this front-end coding challenge.
