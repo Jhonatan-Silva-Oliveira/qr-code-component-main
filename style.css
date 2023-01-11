@@ -21,9 +21,9 @@ body {
   align-items: center;
   justify-content: center;
   flex-direction: column;
-  width: 20em;
+  width: 19em;
   background: hsl(0, 0%, 100%);
-  padding: 1.1rem 1rem;
+  padding: 1rem 0.9rem;
   margin: 2rem;
   border-radius: 1rem;
   box-shadow: 0px 0px 10px 0px hsl(217, 75%, 74%);
@@ -48,19 +48,19 @@ body {
   align-items: center;
   justify-content: center;
   flex-direction: column;
-  padding: 1rem 0.5rem;
+  padding: 0.7rem 0.5rem;
   text-align: center;
 }
 
 .text .titulo {
-  font-size: 1.3rem;
+  font-size: 1.2rem;
   font-weight: 700;
   padding: 0.5rem;
   color: hsl(218, 44%, 22%);
 }
 
 .text .first-paragraph {
-  font-size: 0.99rem;
+  font-size: 0.9rem;
   font-weight: 400;
   padding: 0.5rem;
   color: hsl(220, 15%, 55%);
